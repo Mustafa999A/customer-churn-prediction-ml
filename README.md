@@ -48,3 +48,12 @@ requirements.txt → Dependencies
 ```bash
 pip install -r requirements.txt
 streamlit run streamlit_app.py
+
+
+## Live Demo
+
+Streamlit App:  
+https://customer-churn-prediction-ml-guwxvtnvgybjr9re9it5ga.streamlit.app/
+
+GitHub Repository:  
+https://github.com/Mustafa999A/customer-churn-prediction-ml
